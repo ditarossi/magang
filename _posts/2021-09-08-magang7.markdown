@@ -1,0 +1,16 @@
+---
+layout: Post
+title:  "Day 7"
+date:   2021-09-08
+categories: jekyll update
+---
+Day 8 <br/>
+<p>
+Pembelajaran Mandiri : <br/>
+1. Menyelesaikan blocker hari sebelumnya <br/>
+2. Mencari materi tentang typescript <br/>
+</p>
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/

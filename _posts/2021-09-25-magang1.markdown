@@ -1,0 +1,24 @@
+---
+layout: Post
+title:  "Day 1"
+date:   2021-08-31
+categories: jekyll update
+---
+Day 1 <br/>
+<p>
+Selama magang,Saya mengikuti kegiatan yang diselenggarakan oleh Refactory yang bernama DSM. DSM merupakan kegiatan rutin setiap hari yang dilakukan oleh maganger dan para peserta online course di Refactory. Kegitan ini biasanya berisi tanya jawab dan pemberian materi pembelajaran.
+</p>
+<p>
+Pada hari pertama kami diberi penjelasa oleh trainer terkait apa saja yang akan dikerjakan saat magang, mulai dari bahasa pemorgraman juga framwork yang digunakan. Dalam penjelasan tersebut setipa maganger diber fokus untuk mempelajari masing-masing bahasa pemrograman. Kebetulan saya mendapatkan bahasa typescript dan framwork vue js.
+</p>
+<p>
+Pembelajaran Mandiri : <br/>
+1. Membuat portofolio dengan mencoba framework vue js, tetapi masih menggunakan css dan html <br/>
+2. Mempelajari basic-basic github <br/>
+3. Mencoba WPM <br/>
+4. Mencari referensi belajar
+</p>
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/

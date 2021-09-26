@@ -1,0 +1,16 @@
+---
+layout: Post
+title:  "Day 10"
+date:   2021-09-13
+categories: jekyll update
+---
+Day 10 <br/>
+<p>
+Pembelajaran Mandiri : <br/>
+1. Melanjutkan belajar API <br/>
+2. Melakukan installasi axios 
+</p>
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/

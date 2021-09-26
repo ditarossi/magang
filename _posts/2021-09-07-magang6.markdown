@@ -1,0 +1,21 @@
+---
+layout: Post
+title:  "Day 6"
+date:   2021-09-07
+categories: jekyll update
+---
+Day 6 <br/>
+<p>
+Pembelajaran Mandiri : <br/>
+1. Mencari referensi mengenai API <br/>
+2. Mencari materi tentang typescript <br/>
+3. Melakukan implementasi API menggunakan axios <br/>
+4. Mencoba WPM <br/>
+</p>
+<p>
+<a href="https://github.com/ditarossi/api-vue">Hasil Pembelajaran Hari 6</a>
+</p>
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/

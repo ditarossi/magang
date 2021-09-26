@@ -1,0 +1,21 @@
+---
+layout: Post
+title:  "Day 3"
+date:   2021-09-02
+categories: jekyll update
+---
+Day 3 <br/>
+<p>
+Pembelajaran Mandiri : <br/>
+1. Mencari referensi typescript <br/>
+2. Mencari materi tentang java script <br/>
+3. Mempelajari java script (Function) <br/>
+4. Mencoba WPM dan hackerRank
+</p>
+<p>
+<a href="https://github.com/ditarossi/challenge_day-three">Challenge 3</a>
+</p>
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
