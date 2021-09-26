@@ -1,0 +1,22 @@
+---
+layout: post
+title: 'Kegiatan Selama Magang'
+date: 2021-09-26 07:05:00 +0700
+categories: dsm-sprint
+---
+
+# Daily Activity FrontEnd
+
+| DATE       | ACTIVITY                                                                                                                          | BLOCKER                                                             | SOLVE | LINK|
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| 30/08/2021 | Pada hari pertama kami diberi penjelasan oleh trainer terkait apa saja yang akan dikerjakan saat magang, mulai dari bahasa pemorgraman juga framework yang digunakan. Dalam penjelasan tersebut setiap maganger diberi fokus untuk mempelajari masing-masing bahasa pemrograman.js.       magang                                                                                                                   | Typescript dan Vue js merupakan pelajaran baru                                                                 | Mulai mencari referensi | -|
+| 31/08/2021 | Mempelajari git basic seperti push, pull, dan branchpada github. Selain itu, juga mencari referensi untuk belajar basic java script. Mencoba WPM dan membuat akun hackerrank                                                                                                                                 | SSHKey | Mencari penyelesaian dengan internet | <a href="https://ditarossi.github.io/ ">Github Page</a> |
+| 01/09/2021 | Mulai mengimplementasikan java script dalam code dari referensi hari sebelumnya. Dan mencoba WPM| -                             | -|<a href="https://github.com/ditarossi/challenge_day-two">Challenge 2</a> |
+| 02/09/2021 | Mulai belajar function dalam bahasa pemrograman javascript, mulai mencoba hackerrank, dan mengerjakan challenge                | Masih sulit untuk logika ketika mengerjakan hackerrank           | Melakuakn penyelesaian dengan internet|<a href="https://github.com/ditarossi/challenge_day-three">Challenge 3</a>|
+| 03/09/2021 | Mempelajari java script tentang programming language collection dan melihat materi di course terkait hal itu, serta mengimplementasikannya ke dalam code. Dan melanjutan challenge                            | -| -                                                 |<a href="https://github.com/ditarossi/challenge_day-four">Challenge 4</a>|
+| 06/09/2021 | Melanjutkan pembelajaran basic javascript ke OOP serta mengerjakan challenge | -                                                                   | -| <a href="https://github.com/ditarossi/challenge_day-five">Challenge 5</a>|
+| 07/09/2021 | Belajar mengenai API, dan penerapannya di dalam vue js, serta mengimplementasikannya ke dalam code dengan menggunakan axios | - |-|<a href="https://github.com/ditarossi/api-vue">API</a>|                                                                               |
+| 08/09/2021 | Mencari referensi soal typescript yang diterapkan pada vue js  | -                                                                   |-|-|
+| 09/09/2021 | Mencoba melakukan installasi vue js, dan mengimplementasikan API get, post dengan menggunakan axios | -                      |-|-|                                             |
+| 10/09/2021 | Mencoba mengintegrasikan bootstrap ke vue js, mulai membuat portofolio  | -                                                                   |-|-|
+| 13/09/2021 | Mendalami pemahaman terkait vue js, terutama dengan bahasa pemrograman typescript, Mencari referensi contoh aplikasi yang dibangun dengan menggunakan vue js, mencoba membuat aplikasi sederhana sesuai dengan referensi | -          |-|<a href="https://github.com/ditarossi/cat-app-vue-typexcript">Cat App</a>|
