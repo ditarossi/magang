@@ -27,3 +27,4 @@ categories: dsm-sprint
 | 02/10/2021 | Mengimplementasikan ke dalam code |terdapat error pada file main.ts saat melakukan import code, component yag dicari tidak ditemukan|Melakukan installasi bootstrap-vue|-|
 | 03/10/2021 | Setelah melakukan installasi bootstrap-vue ternyata masih ada blocker | terdapat error | Belum terselesaikan | -|
 | 05/10/2021 | Membuat tampilan login dengan menggunakan bootstrap biasa | -|-|
+| 06/10/2021 | Merapikan tampilan login yang sebelumnya | Terdapat blocker ketika melakukan push local repo ke github repo | men-generate access token pada github |
