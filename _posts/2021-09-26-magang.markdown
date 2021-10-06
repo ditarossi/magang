@@ -20,3 +20,10 @@ categories: dsm-sprint
 | 09/09/2021 | Mencoba melakukan installasi vue js, dan mengimplementasikan API get, post dengan menggunakan axios | -                      |-|-|                                             |
 | 10/09/2021 | Mencoba mengintegrasikan bootstrap ke vue js, mulai membuat portofolio  | -                                                                   |-|-|
 | 13/09/2021 | Mendalami pemahaman terkait vue js, terutama dengan bahasa pemrograman typescript, Mencari referensi contoh aplikasi yang dibangun dengan menggunakan vue js, mencoba membuat aplikasi sederhana sesuai dengan referensi | -          |-|<a href="https://github.com/ditarossi/cat-app-vue-typexcript">Cat App</a>|
+| 15/09/2021 | Membuat desain tmapilan user interface untuk website dan mobile menggunakan figma | -          |-|<a href="https://www.figma.com/file/nhi9P4tYBLu5l8oorslkq1/MobileOnlineStore?node-id=0%3A1">UI Mobile</a> <a href="https://www.figma.com/file/04yaV10B40YQkDY6DgbB8I/OnlineStore">UI Website</a>|
+| 20/09/2021 | Mengimplementasikan desain ke dalam framework vue js dengan menggunakan bahasa pemrograman typescript | Salah melakukan set up saat melakukan installasi vue js          |Mencari referensi penyelesaian masalah dari internet, namun belum terselesaikan. Akhirnya mencoba untuk melakukan installasi ulang|-|
+| 26/09/2021 | Melakukan installasi ulang, dan membuat navigasi untuk projek |-|-|-|
+| 01/10/2021 | Mencari referensi susunan komponen yang digunakan pada login page vue js |-|-|-|
+| 02/10/2021 | Mengimplementasikan ke dalam code |terdapat error pada file main.ts saat melakukan import code, component yag dicari tidak ditemukan|Melakukan installasi bootstrap-vue|-|
+| 03/10/2021 | Setelah melakukan installasi bootstrap-vue ternyata masih ada blocker | terdapat error | Belum terselesaikan | -|
+| 05/10/2021 | Membuat tampilan login dengan menggunakan bootstrap biasa | -|-|
