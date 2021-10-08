@@ -26,8 +26,8 @@ categories: dsm-sprint
 | 01/10/2021 | Mencari referensi susunan komponen yang digunakan pada login page vue js |-|-|-|
 | 02/10/2021 | Mengimplementasikan ke dalam code |terdapat error pada file main.ts saat melakukan import code, component yag dicari tidak ditemukan|Melakukan installasi bootstrap-vue|-|
 | 03/10/2021 | Setelah melakukan installasi bootstrap-vue ternyata masih ada blocker | terdapat error | Belum terselesaikan | -|
-| 05/10/2021 | Membuat tampilan login dengan menggunakan bootstrap biasa | -|-|
-| 06/10/2021 | Merapikan tampilan login yang sebelumnya | Terdapat blocker ketika melakukan push local repo ke github repo | men-generate access token pada github |
-| 07/10/2021 | Merapikan tampilan login yang sebelumnya, mencari cara untuk hyperlink button pada vue js dengan menggunakan vue-router | - | - |
-| 08/10/2021 | Merapikan tampilan login yang sebelumnya, dan membuat halaman registrasi | - | - |
+| 05/10/2021 | Membuat tampilan login dengan menggunakan bootstrap biasa | -|-|<a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>| 
+| 06/10/2021 | Merapikan tampilan login yang sebelumnya | Terdapat blocker ketika melakukan push local repo ke github repo | men-generate access token pada github | <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>| 
+| 07/10/2021 | Merapikan tampilan login yang sebelumnya, mencari cara untuk hyperlink button pada vue js dengan menggunakan vue-router | - | - | <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>| 
+| 08/10/2021 | Merapikan tampilan login yang sebelumnya, dan membuat halaman registrasi | - | - | <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>| 
 
