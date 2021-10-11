@@ -29,5 +29,8 @@ categories: dsm-sprint
 | 05/10/2021 | Membuat tampilan login dengan menggunakan bootstrap biasa | -|-|<a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>| 
 | 06/10/2021 | Merapikan tampilan login yang sebelumnya | Terdapat blocker ketika melakukan push local repo ke github repo | men-generate access token pada github | <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>| 
 | 07/10/2021 | Merapikan tampilan login yang sebelumnya, mencari cara untuk hyperlink button pada vue js dengan menggunakan vue-router | - | - | <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>| 
-| 08/10/2021 | Merapikan tampilan login yang sebelumnya, dan membuat halaman registrasi | - | - | <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>| 
+| 08/10/2021 | Merapikan tampilan login yang sebelumnya, dan membuat halaman registrasi | - | - | <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>|
+| 09/10/2021 | Membuat hyperlink untuk beralih ke halaman sign up | - | - | <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>|
+| 10/10/2021 | Merapikan halaman sign up yang sudah dibuat, dan membuat hyperlink dari halaman sign up ke halaman login | - | - | <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>| 
+| 11/10/2021 | Menyesuaikan navigasi sesuai dengan rancangan UI yang sudah dibuat | - | - | <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>| 
 
