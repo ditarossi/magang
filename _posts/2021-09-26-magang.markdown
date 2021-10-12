@@ -33,4 +33,4 @@ categories: dsm-sprint
 | 09/10/2021 | Membuat hyperlink untuk beralih ke halaman sign up | - | - | <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>|
 | 10/10/2021 | Merapikan halaman sign up yang sudah dibuat, dan membuat hyperlink dari halaman sign up ke halaman login | - | - | <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>| 
 | 11/10/2021 | Menyesuaikan navigasi sesuai dengan rancangan UI yang sudah dibuat | - | - | <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>| 
-
+| 12/10/2021 | Menambahkan background pada halaman login dan sign up | - | - | <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>| 
