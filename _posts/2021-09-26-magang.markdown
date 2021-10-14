@@ -15,7 +15,7 @@ categories: dsm-sprint
 | 02/09/2021 | Mulai belajar function dalam bahasa pemrograman javascript, mulai mencoba hackerrank, dan mengerjakan challenge                | Masih sulit untuk logika ketika mengerjakan hackerrank           | Melakuakn penyelesaian dengan internet|<a href="https://github.com/ditarossi/challenge_day-three">Challenge 3</a>|
 | 03/09/2021 | Mempelajari java script tentang programming language collection dan melihat materi di course terkait hal itu, serta mengimplementasikannya ke dalam code. Dan melanjutan challenge                            | -| -                                                 |<a href="https://github.com/ditarossi/challenge_day-four">Challenge 4</a>|
 | 06/09/2021 | Melanjutkan pembelajaran basic javascript ke OOP serta mengerjakan challenge | -                                                                   | -| <a href="https://github.com/ditarossi/challenge_day-five">Challenge 5</a>|
-| 07/09/2021 | Belajar mengenai API, dan penerapannya di dalam vue js, serta mengimplementasikannya ke dalam code dengan menggunakan axios | - |-|<a href="https://github.com/ditarossi/api-vue">API</a>|                                                                               |
+| 07/09/2021 | Belajar mengenai API, dan penerapannya di dalam vue js, serta mengimplementasikannya ke dalam code dengan menggunakan axios | - |-|<a href="https://github.com/ditarossi/api-vue">API</a>|                                                                           
 | 08/09/2021 | Mencari referensi soal typescript yang diterapkan pada vue js  | -                                                                   |-|-|
 | 09/09/2021 | Mencoba melakukan installasi vue js, dan mengimplementasikan API get, post dengan menggunakan axios | -                      |-|-|                                             |
 | 10/09/2021 | Mencoba mengintegrasikan bootstrap ke vue js, mulai membuat portofolio  | -                                                                   |-|-|
@@ -33,4 +33,5 @@ categories: dsm-sprint
 | 09/10/2021 | Membuat hyperlink untuk beralih ke halaman sign up | - | - | <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>|
 | 10/10/2021 | Merapikan halaman sign up yang sudah dibuat, dan membuat hyperlink dari halaman sign up ke halaman login | - | - | <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>| 
 | 11/10/2021 | Menyesuaikan navigasi sesuai dengan rancangan UI yang sudah dibuat | - | - | <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>| 
-| 12/10/2021 | Menambahkan background pada halaman login dan sign up | - | - | <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>| 
+| 12/10/2021 | Menambahkan background pada halaman login dan sign up | - | - | <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>|
+| 14/10/2021 | Mencari referensi cara pembuatan slider pada vue js menggunakan carousel pada bootstrap | Tombol button belum bisa berfungsi | Belum terselesaikan | <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>| 

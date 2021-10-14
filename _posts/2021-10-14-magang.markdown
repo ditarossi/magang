@@ -1,0 +1,10 @@
+---
+layout: post
+title: 'Magang (14-19 Oktober 2021)'
+date: 2021-10-14 
+categories: dsm-sprint
+---
+
+# Daily Activity FrontEnd
+
+    Hari ini saya mulai merancang landing page untuk user pada website toko sepatu kami. Berdasar pada desain UI yang sudah dibuat sebelumnya, saya mengawali pembuatan website dengan membuat navigasi (menggunakan vue-router). Kemudian, dilanjutkan dengan membuat halaman sign in dan sign up pada aplikasi yang nantinya akan mengambil data dari API backend. Saya membuat tampilan halaman tersebut dengan mengintegrasikan bootstrap di dalamnya. Setelah halaman sign in selesai dibuat, selanjutnya saya membuat halaman home. Di halaman home saya membuat tampilan slider dengan menggunakan carousel dari bootstrap. Di hari ini saya menemukan suatu blocker yakni tombol button belum berfungsi dengan sebagaimana mestinya.
