@@ -6,5 +6,10 @@ categories: dsm-sprint
 ---
 
 # Daily Activity FrontEnd
+    14 Oktober 2021
 
     Hari ini saya mulai merancang landing page untuk user pada website toko sepatu kami. Berdasar pada desain UI yang sudah dibuat sebelumnya, saya mengawali pembuatan website dengan membuat navigasi (menggunakan vue-router). Kemudian, dilanjutkan dengan membuat halaman sign in dan sign up pada aplikasi yang nantinya akan mengambil data dari API backend. Saya membuat tampilan halaman tersebut dengan mengintegrasikan bootstrap di dalamnya. Setelah halaman sign in selesai dibuat, selanjutnya saya membuat halaman home. Di halaman home saya membuat tampilan slider dengan menggunakan carousel dari bootstrap. Di hari ini saya menemukan suatu blocker yakni tombol button belum berfungsi dengan sebagaimana mestinya.
+
+    15 Oktober 2021
+
+    Hari ini saya melanjutkan pembuatan home page. Slider sudah bisa memunculkan gambar. Namun, saya menemukan blocker, yakni halaman yang belum rapi dan juga slider belum bisa bergerak secara otomatis. Dalam slider yang saya buat terdapat pagination di bawah gambar.
