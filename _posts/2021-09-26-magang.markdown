@@ -36,3 +36,4 @@ categories: dsm-sprint
 | 12/10/2021 | Menambahkan background pada halaman login dan sign up | - | - | <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>|
 | 14/10/2021 | Mencari referensi cara pembuatan slider pada vue js menggunakan carousel pada bootstrap | Tombol button belum bisa berfungsi | Belum terselesaikan | <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>| 
 | 15/10/2021 | Melanjutkan pembuatan slider pada home page, gambar sudah bisa diinputkan |gambar pada slider belum auto bergerak, tampilan masih belum rapi|-| <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>| 
+| 17/10/2021 | Mencoba menambahkan card untuk list barang |-|-| <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>|

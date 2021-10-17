@@ -13,3 +13,7 @@ categories: dsm-sprint
     15 Oktober 2021
 
     Hari ini saya melanjutkan pembuatan home page. Slider sudah bisa memunculkan gambar. Namun, saya menemukan blocker, yakni halaman yang belum rapi dan juga slider belum bisa bergerak secara otomatis. Dalam slider yang saya buat terdapat pagination di bawah gambar.
+
+    17 Oktober 2021
+
+    Hari ini saya sudah mencoba untuk membuat card, untuk list daftar sepatu yang akan dijual di e-commerce kami. Prosesnya baru sampai buat components Card.vue, dan juga export import di file home, blocker tapi card belum muncul
