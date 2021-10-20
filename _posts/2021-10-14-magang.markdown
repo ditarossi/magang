@@ -17,3 +17,15 @@ categories: dsm-sprint
     17 Oktober 2021
 
     Hari ini saya sudah mencoba untuk membuat card, untuk list daftar sepatu yang akan dijual di e-commerce kami. Prosesnya baru sampai buat components Card.vue, dan juga export import di file home, blocker tapi card belum muncul
+
+    18 Oktober 2021
+
+    Hari ini saya mencari-cari referensi untuk pembuatan card pada vue js. Akhirnya menemukan suatu metode baru, yakni dengan menggunakan plugin vuetify. Setelah itu, saya melakukan installasi unutk plugin-plugin teresebut. Namun, setelahnya saya menemukan blocker berupa css bootstrap yang saya gunakan untuk membuat halaman sign in dan sign up tidak terbaca. Setelah melakukan konsultasi dengan mentor, akhirnya memutuskan untuk menggunakan css dari bootstrap saja
+
+    19 Oktober 2021
+
+    Hari ini saya melakukan uninstall vuetify yang kemarin sempat menjadi blocker. Setelah itu mulai membuat halaman card.vue dan melakukan import file, pada file home.vue
+
+    20 Oktober 2021
+
+    Hari ini saya mulai membuat card dengan menggunakan bootstrap di halaman card.vue yang kemarin sudah dibuat
