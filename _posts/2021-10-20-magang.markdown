@@ -1,0 +1,17 @@
+---
+layout: post
+title: 'Magang (20-25 Oktober 2021)'
+date: 2021-10-20
+categories: dsm-sprint
+---
+
+# Daily Activity FrontEnd
+    22 Oktober 2021
+
+    Sebelumnya, slider pada halama home page tidak berdiri sebagai components, jadi hari ini saya membuat components slider.vue kemudian mengimportnya ke dalam file home.vue
+
+    23 Oktober 2021
+
+    Hari ini saya membuat suatu component baru yakni footer. Component ini nantinya akan diimport ke dalam component home. Tetapi, saya menemukan blocker bahwa component footer belum bisa diimportkan. Untuk penyelesaiannya saya belum.
+
+    
