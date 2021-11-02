@@ -14,4 +14,8 @@ categories: dsm-sprint
 
     Hari ini saya membuat suatu component baru yakni footer. Component ini nantinya akan diimport ke dalam component home. Tetapi, saya menemukan blocker bahwa component footer belum bisa diimportkan. Untuk penyelesaiannya saya belum.
 
+    25 Oktober 2021
+    
+    Hari ini saya mulai mengikuti serangkaian tes program Intensive Probation yang diselenggarakan oleh refactory. Tes yang saya jalani pertama kali adalah screening bersama HR dari refactory. Setelah screening, saya diberi link dan beberapa ketentuan untuk mengerjakan skill tes. Terdapat 3 soal, pertama ada logic tes, kemudian json manipulation, dan yang terakhir ada mini apps yang harus diselesaikan dalam waktu 2 hari. Selanjutnya, di hari ini juga saya mulai mengerjakan logic tes dengan menggunakan bahasa pemrograman javascript. Pada soal logic tes saya gagal menyelesaikan soal fibbonacci
+
     

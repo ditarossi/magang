@@ -48,4 +48,4 @@ categories: dsm-sprint
 | 28/10/2021 |Membuat component footer pada file projek |Belum bisa melakukan import ke file halaman home|-| <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>|
 | 29/10/2021 | Menyelesaikan blocker di hari sebelumnya |-|Mengubah nama component yang diimport, karena sama dengan nama class pada file footer.vue| <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>|
 | 30/10/2021 | Membuat dropdown navigation pada halaman kategori |Menu pada navigasi belum tertampil|-| <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>|
-| 30/10/2021 | Mengimport component card pada halaman kategori |- |-| <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>|
+| 31/10/2021 | Mengimport component card pada halaman kategori |- |-| <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>|

@@ -1,0 +1,34 @@
+---
+layout: post
+title: 'Magang (26 Oktoer - 02 November 2021)'
+date: 2021-10-26
+categories: dsm-sprint
+---
+
+# Daily Activity FrontEnd
+    26 Oktober 2021
+
+    Hari ini saya melanjutkan mengerjakan skill test program Intensive Probation pada soal yang kedua, yakni JSON manipulation. Tahap pertama yang saya lakukan adalah mencari referensi, setelah menemukan referensi yang tepat saya mulai mengerjakan soal dengan membuat file db.json untuk menyimpan data. Baru membuat file index untuk melakukan get data dari file db.json yang sudah dibuat sebelumnya.
+
+    27 Oktober 2021
+
+    Seperti hari sebelumnya, saya melanjutkan pengerjaan skill tes untuk soal nomor 3 yakni membuat suatu mini apps. Karena masih minim pengetahuan, hal yang saya lakukan pertama kali adalah mencari referensi. Setelah itu baru mulai membuat halaman login. Kali ini saya menggunakan bahasa pemrograman javascript dengan framework vue js. Karena pada projek magang sudah pernah saya buat, akhirnya saya menggunakan projek tersebut, dengan merubah sedikit tampilan. Kemudian, mulai membuat projek baru pada firebase, dan menghubungkannya ke dalam projek mini apps. Semua sudah sesuai dengan tutorial yang saya ikuti. Tetapi masih terdapat blocker pada saat memanggil function login pada button logo google, sistem belum auto sigin melalui google.
+
+    28 Oktober 2021
+
+    Karena skill test sudah dikumpulkan, maka hari ini saya mulai melanjutkan pengerjaan projek magang, yakni pembuatan e-commerce. Saya membuat component footer, namun ada blocker ketika saya melakukan import component ke dalam file home.vue
+
+    29 Oktober 2021
+
+    Hari ini saya mencoba menyelesaikan blocker di hari sebelumnya. Setelah diteliti ulang ternyata terdapat kesalahan saat import file. Nama component yang diimport sama dengan nama class pada file footer.vue. Setelah saya ubah, footer sudah bisa diimport ke dalam file home
+
+    30 Oktober 2021
+
+    Hari ini saya melanjutkan pengerjaan projek dengan membuat dropdown navigation pada menu kategori. Saya mencoba menghubungkan antara bootstrap dengan vou-router, namun menu pada dropdown belum bisa tertampil.
+
+    31 Oktober 2021
+
+    Hari ini saya melakukan import compnent card ke adalam halaman kategori
+
+
+    
