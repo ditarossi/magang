@@ -1,0 +1,28 @@
+---
+layout: post
+title: 'Magang (03 - 10 November 2021)'
+date: 2021-10-26
+categories: dsm-sprint
+---
+
+# Daily Activity FrontEnd
+
+04 November 2021
+
+Minggu ini saya mempunyai target untuk menyelesaikan get dan post api untuk login dan regitrasi pada projek yang saya kerjakan. Hari ini saya mulai mencari beberapa  referensi dari beberapa sumber terkait cara-cara dan plugin apa saja yang diperlukan. Setelah itu, saya menginstall axios pada projek saya, untuk nantinya digunakan untuk menghubungkan dengan API yang sudah dibuat oleh bcakend
+
+05 November 2021
+
+Setelah mendapatkan referensi yang saya rasa pas untuk ditiru, maka hari ini saya mulai mengimplementasikan ke dalam code projek. Pertama saya mencoba untuk membuat function login di halaman login yang nantinya akan terdapat perintah get api  di dalamnya. Sebelum ke get API saya mencoba testing dengan menampilkan alert ketika function sudah berhasil dipanggil, dan berhasil.
+
+07 November 2021
+
+Setelah mencoba membuat function, hari ini saya mencoba untuk menghubungkan projek dan API dengan menggunakan axios. Namun, ada blocker yang saya temui, yakni seperti projek belum bisa terhubung dengan API
+
+08 November 2021
+
+Karena masih stuck dengan API di bagian login, akhirnya saya membuat function register di halaman signup yang nantinya akan terdapat perintah post api di dalamnya. Sebelum ke post API saya mencoba testing dengan menampilkan alert ketika function sudah berhasil dipanggil, dan berhasil. Setelah itu saya mencoba menghubungkan projek dengan API, tapi masih sama dengan blocker yang sebelumnya, antara keduanya belum saling berhubungan
+
+09 November 2021
+
+Setelah mencari dari beberapa sumber, dan bertanya kepada mentor akhirnya ditemukan suatu solusi yakni dengan melakukan import vue-axios terlebih dahulu. Sebelum melakukan import tentnya plugin ini harus diinstall terlebih dahulu. Ketika saya melakukan install muncul beberapa error. Setelah search di internet, bisa jadi error disebabkan karena adanya perbedaan versi antara npm dengan package-lock.json pada projek saya. Hingga pada saat ini get maupun post di API belum bisa dilakukan.

@@ -49,3 +49,8 @@ categories: dsm-sprint
 | 29/10/2021 | Menyelesaikan blocker di hari sebelumnya |-|Mengubah nama component yang diimport, karena sama dengan nama class pada file footer.vue| <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>|
 | 30/10/2021 | Membuat dropdown navigation pada halaman kategori |Menu pada navigasi belum tertampil|-| <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>|
 | 31/10/2021 | Mengimport component card pada halaman kategori |- |-| <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>|
+| 04/11/2021 | Mencari referensi terkait get dan post menggunakan axios pada vue js |- |-| <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>|
+| 05/11/2021 | Mengimplementasikan apa yang dilihat pada referensi yang didapatkan pada halaman login, dan testing menggunakan alert ketika function login berhasil dipanggil |-|-| <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>|
+| 07/11/2021 | Mengimplementasikan api pada projek |belum bisa melakukan get ataupun post pada api|-| <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>|
+| 08/11/2021 | Mengimplementasikan apa yang dilihat pada referensi yang didapatkan pada halaman register, dan testing menggunakan alert ketika function register berhasil dipanggil |-|-| <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>|
+| 09/11/2021 | Mengimplementasikan api pada projek, halaman register |Tidak bisa melakukan installasi vue-axios. Dugaan sementara dikarenakan adanya perbedaan versi npm dengan package-lock.json pada projek yang saya buat|-| <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>|

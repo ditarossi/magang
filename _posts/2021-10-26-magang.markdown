@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Magang (26 Oktoer - 02 November 2021)'
+title: 'Magang (26 Oktober - 02 November 2021)'
 date: 2021-10-26
 categories: dsm-sprint
 ---
