@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'Magang (10 - 16 November 2021)'
+date: 2021-10-26
+categories: dsm-sprint
+---
+
+# Daily Activity FrontEnd
+
+10 November 2021
+
+Hari ini saya melakukan installasi vue-axios yang minggu kemarin belum berhasil diinstall karena adanya perbedaan versi antara npm dan package-lock.json. Blocker ini diselesaikan dengan menghapus file node modules dan package-lock.json terlebih dahulu, baru melakukan installasi plugin ini.
+
+11 November 2021
+
+Untuk melakukan testing API, hari ini saya melakukan installasi postman di pc. Setelah itu, saya melihat API dengan melakukan import link collection yang diberikan oleh backend.
+
+12 November 2021
+
+Setelah melakukan installasi vue-axios dan postman, saya mencoba untuk mengintegrasikan API ke projek. Dengan menggunakan methods post pada signup page
+
+13 November 2021 
+
+Pada saat mencoba menghubungkan project dengan API menggunakan vue-axios, saya menemukan blocker yakni tidak bisa melakukan akses ke signup page 
+
+14 November 2021
+
+Mencoba menyelesaikan blocker dengan menghubungkan projek ke API menggunakan cara dan referensi yang lain. Tapi ketika saya melakukan input data dan memanggil function terdapat notif error di concole, yang artinya post data ke API belum berhasil
+
+16 November 2021
+
+Karena masih stuck, saya melanjutkan project dengan memindahkan file yang dirasa lebih baik ketika dimasukkan dari folder view ke components. Adapun file yang dipindah ada footer, card, dan navbar
+

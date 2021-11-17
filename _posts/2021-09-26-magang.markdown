@@ -54,3 +54,10 @@ categories: dsm-sprint
 | 07/11/2021 | Mengimplementasikan api pada projek |belum bisa melakukan get ataupun post pada api|-| <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>|
 | 08/11/2021 | Mengimplementasikan apa yang dilihat pada referensi yang didapatkan pada halaman register, dan testing menggunakan alert ketika function register berhasil dipanggil |-|-| <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>|
 | 09/11/2021 | Mengimplementasikan api pada projek, halaman register |Tidak bisa melakukan installasi vue-axios. Dugaan sementara dikarenakan adanya perbedaan versi npm dengan package-lock.json pada projek yang saya buat|-| <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>|
+| 10/11/2021 | Melakukan installasi vue-axios |Sepertinya ada perbedaan versi npm dengan package-lock.json|Menghapus file node modules dan package-lock.json| <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>|
+| 11/11/2021 | Melakukan installasi postman di pc |-|-| <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>|
+| 12/11/2021 | Mencoba mengintegrasikan API ke projek|Ketika saya mengimport vue-axios halaman sign up tidak dapat tertampil|-| <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>|
+| 13/11/2021 | Mencoba mengintegrasikan API ke projek tanpa menggunakan vue-axios dengan referensi lain |Belum berhasil menginputkan/post data ke API|-| <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>|
+| 14/11/2021 | Menyelesaikan blocker dengan cara dan refenrensi lain |Belum berhasil menginputkan/post data ke API|-| <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>|
+| 16/11/2021 | Memindahkan footer, card, dan navigasi dari views ke components |-|-| <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>|
+
