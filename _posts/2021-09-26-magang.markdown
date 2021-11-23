@@ -60,4 +60,7 @@ categories: dsm-sprint
 | 13/11/2021 | Mencoba mengintegrasikan API ke projek tanpa menggunakan vue-axios dengan referensi lain |Belum berhasil menginputkan/post data ke API|-| <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>|
 | 14/11/2021 | Menyelesaikan blocker dengan cara dan refenrensi lain |Belum berhasil menginputkan/post data ke API|-| <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>|
 | 16/11/2021 | Memindahkan footer, card, dan navigasi dari views ke components |-|-| <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>|
+| 18/11/2021 | Membuat function login yang berisi method posts api pada sign up page|-|-| <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>|
+| 20/11/2021 | Form validation pada sign up dan sign in page |-|-| <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>|
+| 22/11/2021 | Mencoba google auth pada projek dengan menghubungkannya dengan firebase |Terdapat keterangan error seperti plugin firebase nya belum terbaca, padahal sudah diinstall dan diimport|-| <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>|
 

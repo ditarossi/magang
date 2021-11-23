@@ -1,0 +1,20 @@
+---
+layout: post
+title: 'Magang (17 - 23 November 2021)'
+date: 2021-10-26
+categories: dsm-sprint
+---
+
+# Daily Activity FrontEnd
+
+18 November 2021
+
+Di minggu sebelumnya saya sudah berhasil melakukan post API di sign up page. Maka hari ini saya mulai mengubah code yang berada di sign in page, dengan menambahkan fumction login. Dimana dalam function ini terdapat method post ke API. Hasil yang terlihat bagi seorang developer ketika user berhasil melakukan login adalah pada bagian console akan muncul status 200, yang mana hal ini menunjukkan suatu proses berhasil dilakukan. Sedangkan untuk user saya menambahkan alert dengan keterangan "Login Berhasil !"
+
+20 November 2021
+
+Setelah sign in dan sign up page berhasil melakukan post data ke API, hari ini saya membuat form validation. Dengan ketentuan setiap field harus diisi, dan password lebih dari 6 karakter. Dan jika syarat belum terpenuhi, maka ketika user melakukan sign up maupun sign in akan gagal.
+
+21 Novemver 2021
+
+Hari ini saya mencoba google auth pada projek dengan menghubungkanya dengan firebase. Langkah pertama yang saya lakukan adalah mencari referensi. Ketika referensi dirasa cukup, selanjutnya saya melakukan installasi plugin firebase pada projek. Setelah itu, membuat project pada website firebase dengan memilih sign in dengan google account. Baru setelahnya saya mencoba menghubungkan dengan projek. Namun, ketika saya mencoba terdapat error, seperti plugin firebasenya belum terbaca, padahal sudah diinstall dan diimport
