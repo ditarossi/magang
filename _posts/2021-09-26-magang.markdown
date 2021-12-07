@@ -63,4 +63,6 @@ categories: dsm-sprint
 | 18/11/2021 | Membuat function login yang berisi method posts api pada sign up page|-|-| <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>|
 | 20/11/2021 | Form validation pada sign up dan sign in page |-|-| <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>|
 | 22/11/2021 | Mencoba google auth pada projek dengan menghubungkannya dengan firebase |Terdapat keterangan error seperti plugin firebase nya belum terbaca, padahal sudah diinstall dan diimport|-| <a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>|
+| 26 - 29/11/2021 | Melanjutkan google auth |Masih terdapat blocker dan error. Tutorial yang diikuti masih menggunakan javascript| -|<a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>|
+| 02 - 07/11/2021 | Menghubungkan projek dengan API Back-End|terdapat notif error yang sampai sekarang belum bisa saya selesaikan|-|<a href="https://github.com/ditarossi/Shoes-FrontEnd">Front-End</a>|
 

@@ -1,0 +1,10 @@
+---
+layout: post
+title: 'Magang (02 - 07 Desember 2021)'
+date: 2021-10-26
+categories: dsm-sprint
+---
+
+# Daily Activity FrontEnd
+
+Selama seminggu ini saya mencoba menghubungkan projek yang saya buat dengan API yang berbeda. Sebelumnya saya sudah berhasil menghubungkan projek dengan API milik back-end (Adhi). Baik login maupun registrasi sudah bisa terhubung dengan baik. Minggu kemarin back-end-er tim saya, Elang, sudah bisa membuat API secara live. Saya mengira untuk menghubungkannya akan terasa mudah, karena hanya perlu mengubah link API dan menyesuaikan variable. Tapi dalam praktinya saya menemukan suatu notif error. Setelah saya mencoba searching ada 2 cara untuk menyelesaikannya yakni dari sisi front-end dan dari sisi back-end. Saya mencoba menyelesaikan dari sisi front-end terlebih dahulu, yakni dengan mengubah extention web browser yang saya gunakan, namun belum berhasil. Setelah itu, saya melakukan koordinasi dengan back-end agar dicoba menyelesaikan error dari sisi back-end, namun back-end juga masih ada kendala. Jadi error belum bisa terselesaikan.
